@@ -1,0 +1,9 @@
+C:\git\Win32Api\Win32Api\bin\Release\netstandard2.0\Win32Api.deps.json
+C:\git\Win32Api\Win32Api\bin\Release\netstandard2.0\Win32Api.dll
+C:\git\Win32Api\Win32Api\bin\Release\netstandard2.0\Win32Api.pdb
+C:\git\Win32Api\Win32Api\obj\Release\netstandard2.0\Win32Api.csprojAssemblyReference.cache
+C:\git\Win32Api\Win32Api\obj\Release\netstandard2.0\Win32Api.AssemblyInfoInputs.cache
+C:\git\Win32Api\Win32Api\obj\Release\netstandard2.0\Win32Api.AssemblyInfo.cs
+C:\git\Win32Api\Win32Api\obj\Release\netstandard2.0\Win32Api.csproj.CoreCompileInputs.cache
+C:\git\Win32Api\Win32Api\obj\Release\netstandard2.0\Win32Api.dll
+C:\git\Win32Api\Win32Api\obj\Release\netstandard2.0\Win32Api.pdb

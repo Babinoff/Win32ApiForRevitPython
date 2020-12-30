@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzEi5wjZzqX9fhxVgcK55/J1gJZBoD+fl+FRY6Q2dYIZ/HqaEbPokhfIBYVC4jNFuQMQiahVPKoJOBKAAUXtIQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\Win32ApiForRevitPython\\Win32Api\\Win32Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
